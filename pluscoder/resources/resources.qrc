@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/save_alt_white_24dp.svg</file>
+    <file>icons/tune_white_24dp.svg</file>
+    <file>icons/settings_white_24dp.svg</file>
+    <file>icons/minus_white_24dp.svg</file>
+    <file>icons/align_horizontal_right_white_24dp.svg</file>
+    <file>icons/align_horizontal_left_white_24dp.svg</file>
+    <file>icons/skip_previous_white_24dp.svg</file>
+    <file>icons/skip_next_white_24dp.svg</file>
+    <file>icons/close_white_24dp.svg</file>
+    <file>icons/play_arrow_white_24dp.svg</file>
+    <file>icons/terminal_white_24dp.svg</file>
+    <file>icons/add_white_24dp.svg</file>
+    <file>icons/folder_white_24dp.svg</file>
+    <file>icons/output_white_24dp.svg</file>
+    <file>icons/audiotrack_white_24dp.svg</file>
+    <file>icons/copy_all_white_18dp.svg</file>
+    <file>icons/check_white_18dp.svg</file>
+    <file>icons/camera_white_24dp.svg</file>
+    <file>icons/crop_white_24dp.svg</file>
+    <file>icons/content_cut_white_24dp.svg</file>
+    <file>icons/info_white_24dp.svg</file>
+    <file>icons/close_white_18dp.svg</file>
+    <file>icons/minimize_white_18dp.svg</file>
+    <file>icons/login_white_24dp.svg</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/PTMono-Regular.ttf</file>
+  </qresource>
+  <qresource prefix="graphics">
+    <file>graphics/icon.png</file>
+  </qresource>
+</RCC>
